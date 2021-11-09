@@ -1,0 +1,253 @@
+{
+  "products": [
+    {
+      "name": "Двушка в центре Питера",
+      "price": 30000000,
+      "coordinates": [
+        59.938784,
+        30.323126
+      ],
+      "seller": {
+        "fullname": "Бюро Семёна",
+        "rating": 4.7
+      },
+      "description": "Просторная двушка в центре Питера. Без кухни, зато в историческом здании. Внизу много кафешек, поесть можно и там. Есть выход на крышу, с которой виден весь город. В собственности больше трёх лет.",
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "ул.Большая Конюшенная",
+        "building": "д.19"
+      },
+      "publish-date": "1576773899132",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_1_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_1_2.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_1_3.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_1_4.png"
+      ],
+      "filters": {
+        "type": "flat",
+        "area": 120,
+        "rooms-count": 2
+      }
+    },
+    {
+      "name": "Однушка в спальнике Питера",
+      "price": 10000000,
+      "coordinates": [
+        60.027449,
+        30.340338
+      ],
+      "seller": {
+        "fullname": "Игнат-Агент",
+        "rating": 4.2
+      },
+      "description": "Уютная однушка в тихом спальном районе. Рядом лес и озёра. Согласованная перепланировка. Тонкие стены — вы будете слышать соседей, зато будете в курсе всех событий.",
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "ул.Лиственная",
+        "building": "д.22"
+      },
+      "publish-date": "1582418062833",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_2_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_2_2.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_2_3.png"
+      ],
+      "filters": {
+        "type": "flat",
+        "area": 30,
+        "rooms-count": 1
+      }
+    },
+    {
+      "name": "Трёшка рядом с Кремлём",
+      "price": 22000000,
+      "coordinates": [
+        56.330176,
+        43.999294
+      ],
+      "seller": {
+        "fullname": "Виталий Петрович",
+        "rating": 5
+      },
+      "description": "Трёхкомнатная квартира для большой семьи рядом с Кремлём. 2 минуты до набережной и прекрасного вида на Волгу. Сделана шумоизоляция — вы не будете слышать туристов, а они не будут слышать вас. В квартире есть сауна, джакузи и домашний кинотеатр. Перепланировка согласованна.",
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "ул. Рождественская",
+        "building": "д.1"
+      },
+      "publish-date": "1592033220171",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_3_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_3_2.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_3_3.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_3_4.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_3_5.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_3_6.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_3_7.png"
+      ],
+      "filters": {
+        "type": "flat",
+        "area": 200,
+        "rooms-count": 3
+      }
+    },
+    {
+      "name": "Студия для аскетов",
+      "price": 5000000,
+      "coordinates": [
+        52.334955,
+        104.267437
+      ],
+      "seller": {
+        "fullname": "Марья Андреевна",
+        "rating": 3
+      },
+      "description": "Студия с лаконичным дизайном возле Ангары. Квартира небольшая, но в ней есть всё необходимое для комфортной одинокой жизни. Балкона нет, зато есть большое окно, выходящее во двор. На подоконник часто прилетают голуби, вы сможете с ними подружиться.",
+      "address": {
+        "city": "Иркутск",
+        "street": "ул. Полярная",
+        "building": "д.95А"
+      },
+      "publish-date": "1557122399389",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_4_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_4_2.png"
+      ],
+      "filters": {
+        "type": "flat",
+        "area": 20,
+        "rooms-count": 1
+      }
+    },
+    {
+      "name": "Апартаменты для фрилансера",
+      "price": 3000000,
+      "coordinates": [
+        56.034606,
+        92.890391
+      ],
+      "seller": {
+        "fullname": "Марина Недвижимость",
+        "rating": 4.1
+      },
+      "description": "Уютные апартаменты в центре города. Большие окна, много света. Нет кабинета, но за кухонных столом удобно работать. Есть небольшая комната для приёма гостей.",
+      "address": {
+        "city": "Красноярск",
+        "street": "ул. Шахтёров",
+        "building": "д.33Б"
+      },
+      "publish-date": "1608220822265",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_5_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_5_2.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_5_3.png"
+      ],
+      "filters": {
+        "type": "apartment",
+        "area": 50,
+        "rooms-count": 2
+      }
+    },
+    {
+      "name": "Апартаменты для пары",
+      "price": 11300000,
+      "coordinates": [
+        53.051619,
+        158.627118
+      ],
+      "seller": {
+        "fullname": "МДВ-риелтор",
+        "rating": 5
+      },
+      "description": "Большие стильные апартаменты для семьи без детей. Большая кухня с островом для ваших лучших ужинов. Просторная гостиная. Из окон вид на вулканы.",
+      "address": {
+        "city": "Петропавловск-Камчатский",
+        "street": "ул. Доватора",
+        "building": "д.15"
+      },
+      "publish-date": "1607852845183",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_6_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_6_2.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/apt_6_3.png"
+      ],
+      "filters": {
+        "type": "apartment",
+        "area": 85,
+        "rooms-count": 2
+      }
+    },
+    {
+      "name": "Дом в финском стиле",
+      "price": 10500000,
+      "coordinates": [
+        61.082668,
+        28.962497
+      ],
+      "seller": {
+        "fullname": "Игнат-Агент",
+        "rating": 4
+      },
+      "description": "Деревянный дом на берегу озера. На первом этаже кухня-гостиная, на втором этаже спальня. Идеально для пары без детей. В доме много окон, поэтому много света. Дизайнерская мебель входит в стоимость дома.",
+      "address": {
+        "city": "Лосево",
+        "street": "Новая улица",
+        "building": "д.32"
+      },
+      "publish-date": "1606107354116",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_1_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_1_2.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_1_3.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_1_4.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_1_5.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_1_6.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_1_7.png"
+      ],
+      "filters": {
+        "type": "house",
+        "area": 105,
+        "rooms-count": 2
+      }
+    },
+    {
+      "name": "Дом для большой семьи",
+      "price": 17500000,
+      "coordinates": [
+        60.09084,
+        29.977715
+      ],
+      "seller": {
+        "fullname": "Продавец «ЛенОблАгент",
+        "rating": 3.8
+      },
+      "description": "Кирпичный дом в американском стиле в Курортном районе. Большая просторная кухня, много света, гардеробная, кладовка, бассейн, гараж. Рядом Сестрорецкий разлив и залив. В 5 минутах от дома садик и школа. В 10 минутах продуктовый магазин и железнодорожная станция.",
+      "address": {
+        "city": "Сестрорецк",
+        "street": "ул. Красноармейская",
+        "building": "д.11А"
+      },
+      "publish-date": "1608189323184",
+      "category": "Недвижимость",
+      "photos": [
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_2_1.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_2_2.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_2_3.png",
+        "https://assets.htmlacademy.ru/content/projects/1-trading-floor/house_2_4.png"
+      ],
+      "filters": {
+        "type": "house",
+        "area": 150,
+        "rooms-count": 4
+      }
+    }
+  ]
+}
